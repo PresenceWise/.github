@@ -1,29 +1,32 @@
 # PresenceWise
 
-**Practical software and digital solutions for real operational problems.**
+**Technology built around how the work actually happens.**
 
-We design and build custom applications, internal tools, and effective websites for organizations that need technology that actually works the way their teams do.
-
----
+PresenceWise is a founder-led, Chicago-area technology company building practical software and digital solutions for real operational problems. We help small and growing businesses simplify technology, improve what already exists, and build what their teams actually need.
 
 ### What we do
 
-- **Custom Applications** — Internal tools and platforms built around real workflows  
-- **Websites** — Clean, professional sites that are easy to update and focused on results  
-- **Technology Consulting** — Clear guidance on what to build, what to fix, and what to leave alone  
+- **Custom Applications** — Web and mobile applications, internal tools, workflow systems, and automation shaped around real work.
+- **Business Websites** — New websites and focused improvements that make content clearer, customer contact easier, and everyday editing practical.
+- **Technology Consulting** — Senior guidance on architecture, software choices, AI adoption, vendors, and what to build, fix, simplify, or leave alone.
+- **Managed Technology Partnership** — Selective ongoing support across accounts, platforms, devices, vendors, and application maintenance.
 
----
+### Selected products and client work
 
-### Selected Work
+| Project | Focus |
+|---------|-------|
+| [**HONESTY90**](https://www.presencewise.com/work/honesty90) | Search designed around useful results without behavioral advertising profiles or intentional search-history retention in the application. |
+| [**A Room**](https://www.presencewise.com/work/a-room) | A temporary, account-free AI conversation space with a deliberately quiet experience. |
+| [**ResolveTrack**](https://www.presencewise.com/work/resolvetrack) | An interactive readiness demonstration connecting exercise findings to corrective actions, evidence, and independently verified closure. |
+| [**Investigative Drafting · BeSure Consulting**](https://www.presencewise.com/work/besure) | Guided drafting for structured law-enforcement training documents. |
+| [**M&M Event Decor**](https://www.presencewise.com/work/mm-event-decor) | A visual service website that showcases event work and makes inquiries easier to start. |
+| [**JAB Fitness Training**](https://www.presencewise.com/work/jab-fitness-training) | A focused website refresh clarifying workouts, coaching, memberships, and getting started. |
 
-| Project | Description |
-|---------|-------------|
-| **aRoom** | A simple, no-account conversation space for right-now talks |
-| **BeSure** | Investigative drafting platform for law enforcement training |
-| **ReadyWise** | Operational readiness platform for tracking exercises and capability gaps |
-| **M&M Event Decor** | Website for a luxury event decor company |
+[Explore selected work →](https://www.presencewise.com/work)
 
----
+### How we build
+
+We choose technology to fit the problem and reuse proven foundations for security, performance, accessibility, and maintainability. Our work spans modern web and mobile development, thoughtful integrations, and practical long-term support. For client-owned technology, clients retain ownership and control, with PresenceWise working through appropriate delegated access.
 
 ### Get in touch
 
